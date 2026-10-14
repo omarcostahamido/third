@@ -13,7 +13,7 @@ New INFO Hub Student numbers:
 | Total | 318 |
 
 ```
-* according to data from https://infh.hkust-gz.edu.cn/about/fast-facts/ on 2026-09-30
+* according to data acquired from https://infh.hkust-gz.edu.cn/about/fast-facts/ on 2026-09-30
 ```
 
 ![INFO Hub new student numbers](/images/graph1.jpg)
