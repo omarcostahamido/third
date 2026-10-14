@@ -10,6 +10,7 @@ New INFO Hub Student numbers:
 | PhD | 173 |
 | MSc | 99 |
 | MFA | 46 |
+| Total | 320 |
 
 ```
 * according to data from https://infh.hkust-gz.edu.cn/about/fast-facts/ on 2026-09-30
